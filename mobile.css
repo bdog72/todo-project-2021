@@ -4,3 +4,11 @@
 header {
   font-size: 1.5rem;
 }
+
+form {
+  flex-direction: column;
+}
+
+.todo-button {
+  margin-top: 10px;
+}
